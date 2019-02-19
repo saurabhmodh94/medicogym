@@ -481,8 +481,8 @@ box-shadow: 0px 2px 6px 0px rgba(230,230,230,1);}
 
 /* service section */
 
-.service-block { }
-.service-img { margin-bottom: 30px; }
+.service-block { margin-bottom: 2em; }
+.service-img {  }
 .service-img img { width: 100%; }
 .service-caption { }
 .service-title { font-size: 20px; color: #212330; text-transform: uppercase; text-align: center; letter-spacing: 1px; }
@@ -491,6 +491,9 @@ box-shadow: 0px 2px 6px 0px rgba(230,230,230,1);}
 .service-single-block { }
 .service-single-img { }
 .service-single-content { }
+.service-content h2  { margin-top: 5px; }
+.service-content p  { margin-top: -1em; }
+
 
 /*-----------------------------------------
     service side-nav
